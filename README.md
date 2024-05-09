@@ -41,13 +41,13 @@ Here are some screenshots of the application:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/your_repository.git
+  [  git clone https://github.com/your_username/your_repository.git](https://github.com/Vishalrathore95/CRUD-DJANGO/tree/main/curd)
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your_repository
+    cd curd
     ```
 
 3. Install dependencies:
